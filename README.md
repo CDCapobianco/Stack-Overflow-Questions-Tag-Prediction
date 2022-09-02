@@ -24,7 +24,7 @@ Since we want the model to be able of assigning 1+ tags to each question, we are
 
 Three models were considered for this task: Logistic Regression, Support Vector Machine Classifier, Artificial Neural Network.
 
-The execution of some other models was attempted too (XGBoost and LSTM Neural Network) but it needed too much computational power so the performance of these algorithms won't be further considered.
+The execution of some other models was attempted too (XGBoost and LSTM Neural Network) but these needed too much computational power to converge in a reasonable amount of time so their performance won't be further discussed.
 
 Test size is 20% of the dataset
 
