@@ -1,4 +1,4 @@
-# Stack-Overflow-Questions-Tag-Prediction
+# Stack Overflow Questions Tag Prediction
 A questions tag predictor based on the StackSample dataset.
 The objective is to build a model which can assign 1+ tags to a SO question automatically.
 
