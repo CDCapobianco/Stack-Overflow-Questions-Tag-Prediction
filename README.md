@@ -29,7 +29,7 @@ The execution of some other models was attempted too (XGBoost and LSTM Neural Ne
 Test size is 20% of the dataset
 
 | Model  | Test Performance (Accuracy) | Test Performance (Precision Score) | Test Performance (Recall Score) | Test Performance (F1 Score) |
-| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
 | Logistic Regression  | 15.02%  | 88.44%  | 23.72%  | 37.41%  |
 | SVM | 21.89%  | 90.11% |  33.07% |  48.39% |
 | ANN | 48.01% | 63.49% |  49.75% | 49.17% |
