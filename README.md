@@ -28,6 +28,8 @@ The execution of some other models was attempted too (XGBoost and LSTM Neural Ne
 
 Test size is 20% of the dataset
 
+For comparison purposes, a random decision model would have an accuracy of roughly 0.23%, so its accuracy would be 210 times worse than the ANN and 65 times worse than the Logistic Regression.
+
 | Model  | Test Performance (Accuracy) | Test Performance (Precision Score) | Test Performance (Recall Score) | Test Performance (F1 Score) |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Logistic Regression  | 15.02%  | 88.44%  | 23.72%  | 37.41%  |
